@@ -3,6 +3,9 @@
 This is the repository to automate the scenario provided by the CSC for interview.
 
 Question for reference:
+Your task is to write an automated test for the GitHub search. We are using multiple filters to find this repository:
+[https://github.com/mvoloskov/decider](https://github.com/mvoloskov/decider).
+
 1. Open [https://github.com/](https://github.com/).
 2. Focus the 'Search Github' search bar.
 3. Input 'react' and submit.
